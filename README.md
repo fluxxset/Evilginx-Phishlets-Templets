@@ -4,7 +4,7 @@
 
 ## Guide: Cloning and Injecting Code
 
-[Source Code ](https://5f5.in/vH7J)
+[Source Code ](https://5f5.in/mIQj)
 
 
 **Overview:**
