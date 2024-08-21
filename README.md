@@ -4,12 +4,12 @@
 
 ## Guide: Evilginx Phishlets Templets
 
-![banner](https://shop.fluxxset.com/wp-content/uploads/2024/03/evilginx_blog_title2-600x338.jpg)
 
+
+
+
+![banner](http://shop.fluxxset.com/wp-content/uploads/2024/08/Evilginx_course.png)
 [Source Code ](https://t.me/FluxxSet)
-
-![banner](https://shop.fluxxset.com/wp-content/uploads/2024/08/Evilginix-Training-3-600x849.png)
-
 **Overview:**
 This guide provides examples of cloning a website and injecting code for educational purposes only. It is essential to understand the ethical considerations and legal implications of such actions. Proceed with caution and always prioritize ethical behavior and respect for others' intellectual property rights.
 
